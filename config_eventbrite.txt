@@ -1,0 +1,6 @@
+[Eventbrite]
+Private_token : ##############
+
+[Gmail]
+Account : ############
+Password : ############
